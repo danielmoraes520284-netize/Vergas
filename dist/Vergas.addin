@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Vergas</Name>
+    <Assembly>.\Vergas\Vergas.dll</Assembly>
+    <AddInId>7d3c1b52-9a4e-4f6b-8c21-5e0a93d4b7f1</AddInId>
+    <FullClassName>BimBlaster.Vergas.VergasApplication</FullClassName>
+    <VendorId>BIMBLASTER</VendorId>
+    <VendorDescription>BIMBLASTER, www.bimblaster.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
